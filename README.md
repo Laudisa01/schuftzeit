@@ -1,6 +1,6 @@
-# Zeitwert – Website (GitHub Pages)
+# Schuftzeit – Website (GitHub Pages)
 
-Support-Seite, Datenschutzerklärung und Impressum der iOS-App „Zeitwert“.
+Support-Seite, Datenschutzerklärung und Impressum der iOS-App „Schuftzeit“.
 
 - `index.html` – Support-URL für App Store Connect
 - `datenschutz.html` – Datenschutz-URL
